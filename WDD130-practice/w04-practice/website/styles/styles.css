@@ -1,0 +1,26 @@
+
+
+body {
+    background-color: pink;
+}
+header {
+    color: white;
+}
+header:hover {
+    color: black;
+}
+
+main {
+    color: black;
+}
+main:hover {
+    color: white;
+}
+
+footer, body, main {
+    text-align: center;
+}
+p, h4, h2 {
+    text-align: center;
+    margin: 3 auto;
+}
