@@ -6,8 +6,9 @@
 nav, a, #hero-msg h1, #hero-msg h4,.button-box, main section {
     text-align: center;
     color: rgb(1, 36, 67);
-    text-decoration:none
-    
+    text-decoration:none;
+    padding
+
 }
 #background {
     height: 725px;
