@@ -1,14 +1,23 @@
 .circle-image {
     display: inline-block;
     border-radius: 50%;
-    estouro: oculto;
+    word-break: hidden;
     width: 50 px;
     height: 50px;
   }
   .circle-image img {
-    width: 100%;
+    width: 50%;
     height: 100%;
     object-fit: cover;
+  }
+
+  .circle-image {
+    width: 50 px;
+    height: 50px;
+    background-image: url ('sua-imagem.jpg');
+    background: cover;
+    display: block;
+    border-radius: 50%;
   }
 
 img {
