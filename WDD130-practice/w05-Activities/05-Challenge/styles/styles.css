@@ -1,35 +1,15 @@
 .circle-image {
-    display: inline-block;
-    border-radius: 50%;
-    word-break: hidden;
-    width: 50 px;
-    height: 50px;
-  }
-  .circle-image img {
-    width: 50%;
-    height: 100%;
-    object-fit: cover;
-  }
-
-  .circle-image {
-    width: 50 px;
-    height: 50px;
-    background-image: url ('sua-imagem.jpg');
-    background: cover;
-    display: block;
-    border-radius: 50%;
-  }
-
-img {
-    border: blue;
+  border-radius: 50%;
+  border: 10px;
+  border-style:solid;
+  border-color: rgb(56, 54, 54);
+  text-align: center;
+  margin: 25px auto;
+  margin-left: 50px;
 }
 
 body {
-    color: gray
-}
-#image_b {
-    text-align: center;
-    border: black;
-    margin: 0 auto;
-    height: 100px;
+  color: gray;
+  background-color: gray;
+  text-align: center;
 }
