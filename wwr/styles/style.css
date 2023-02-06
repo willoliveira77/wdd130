@@ -30,13 +30,12 @@ Fonts are separated by a & */
     max-width: 1600px;
     margin: 0 auto;
     text-align: center;
-    font-display: "Roboto";
+
 }
 nav, a, #hero-msg h1, #hero-msg h4,.button-box, main section {
     text-align: center;
     color: rgb(1, 36, 67);
     text-decoration:none;
-    font-display:"Rock Salt";
     padding:1em;
     min-width: 120px;
     text-decoration: none;
